@@ -375,7 +375,7 @@ func checkifplaying4() {
 }
 func writeFile1(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\Deck1.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./Deck1.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -391,7 +391,7 @@ func writeFile1(text string) {
 }
 func writeFile2(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\Deck2.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./Deck2.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -407,7 +407,7 @@ func writeFile2(text string) {
 }
 func writeFile3(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\Deck3.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./Deck3.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -423,7 +423,7 @@ func writeFile3(text string) {
 }
 func writeFile4(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\Deck4.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./Deck4.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -439,7 +439,7 @@ func writeFile4(text string) {
 }
 func writefileart1(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck1_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck1_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -455,7 +455,7 @@ func writefileart1(text string) {
 }
 func writefileart2(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck2_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck2_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -471,7 +471,7 @@ func writefileart2(text string) {
 }
 func writefileart3(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck3_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck3_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -487,7 +487,7 @@ func writefileart3(text string) {
 }
 func writefileart4(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck4_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck4_Artist.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -503,7 +503,7 @@ func writefileart4(text string) {
 }
 func writefiletitle1(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck1_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck1_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -519,7 +519,7 @@ func writefiletitle1(text string) {
 }
 func writefiletitle2(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck2_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck2_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -535,7 +535,7 @@ func writefiletitle2(text string) {
 }
 func writefiletitle3(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck3_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck3_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
@@ -551,7 +551,7 @@ func writefiletitle3(text string) {
 }
 func writefiletitle4(text string) {
 
-	file, err := os.OpenFile(`C:\OBS\SnipDeck4_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
+	file, err := os.OpenFile(`./SnipDeck4_Track.txt`, os.O_WRONLY|os.O_CREATE, 0666)
 	file.Truncate(0)
 	if err != nil {
 		log.Printf("File does not exists or cannot be created")
