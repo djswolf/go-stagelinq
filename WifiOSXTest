@@ -1,0 +1,116 @@
+2021/03/11 23:06:01 Listening for devices for 5s
+2021/03/11 23:06:01 Discovery looping
+2021/03/11 23:06:01 Started
+2021/03/11 23:06:01 Discovery looping
+2021/03/11 23:06:01 Bytes: 152, source: [::1]:57790, error: <nil>
+2021/03/11 23:06:01 Checking IP:Port [::1]:57790
+2021/03/11 23:06:01 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:01 Device was ourself
+2021/03/11 23:06:01 Discovery looping
+2021/03/11 23:06:01 Bytes: 152, source: 192.168.1.133:63652, error: <nil>
+2021/03/11 23:06:01 Checking IP:Port 192.168.1.133:63652
+2021/03/11 23:06:01 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:01 Device was ourself
+2021/03/11 23:06:01 Discovery looping
+2021/03/11 23:06:01 Bytes: 102, source: 192.168.1.138:52527, error: <nil>
+2021/03/11 23:06:01 Checking IP:Port 192.168.1.138:52527
+2021/03/11 23:06:01 Device from discovery JC11
+2021/03/11 23:06:01 Device was entering
+2021/03/11 23:06:01 192.168.1.138 "prime4" "JC11" "1.6.0"
+2021/03/11 23:06:01 Added this device: 192.168.1.138 "prime4" "JC11" "1.6.0"
+2021/03/11 23:06:01 Discovery looping
+2021/03/11 23:06:01 Started
+2021/03/11 23:06:02 Discovery looping
+2021/03/11 23:06:02 Bytes: 152, source: [::1]:60638, error: <nil>
+2021/03/11 23:06:02 Checking IP:Port [::1]:60638
+2021/03/11 23:06:02 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:02 Device was ourself
+2021/03/11 23:06:02 Discovery looping
+2021/03/11 23:06:02 Bytes: 152, source: 192.168.1.133:65193, error: <nil>
+2021/03/11 23:06:02 Checking IP:Port 192.168.1.133:65193
+2021/03/11 23:06:02 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:02 Device was ourself
+2021/03/11 23:06:02 Discovery looping
+2021/03/11 23:06:02 Bytes: 102, source: 192.168.1.138:50860, error: <nil>
+2021/03/11 23:06:02 Checking IP:Port 192.168.1.138:50860
+2021/03/11 23:06:02 Device from discovery JC11
+2021/03/11 23:06:02 Device was entering
+2021/03/11 23:06:02 192.168.1.138 "prime4" "JC11" "1.6.0"
+2021/03/11 23:06:02 Discovery looping
+2021/03/11 23:06:02 Started
+2021/03/11 23:06:03 Discovery looping
+2021/03/11 23:06:03 Bytes: 152, source: [::1]:59570, error: <nil>
+2021/03/11 23:06:03 Checking IP:Port [::1]:59570
+2021/03/11 23:06:03 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:03 Device was ourself
+2021/03/11 23:06:03 Discovery looping
+2021/03/11 23:06:03 Bytes: 152, source: 192.168.1.133:53556, error: <nil>
+2021/03/11 23:06:03 Checking IP:Port 192.168.1.133:53556
+2021/03/11 23:06:03 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:03 Device was ourself
+2021/03/11 23:06:03 Discovery looping
+2021/03/11 23:06:03 Bytes: 102, source: 192.168.1.138:47020, error: <nil>
+2021/03/11 23:06:03 Checking IP:Port 192.168.1.138:47020
+2021/03/11 23:06:03 Device from discovery JC11
+2021/03/11 23:06:03 Device was entering
+2021/03/11 23:06:03 192.168.1.138 "prime4" "JC11" "1.6.0"
+2021/03/11 23:06:03 Discovery looping
+2021/03/11 23:06:03 Started
+2021/03/11 23:06:04 Discovery looping
+2021/03/11 23:06:04 Bytes: 152, source: [::1]:58903, error: <nil>
+2021/03/11 23:06:04 Checking IP:Port [::1]:58903
+2021/03/11 23:06:04 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:04 Device was ourself
+2021/03/11 23:06:04 Discovery looping
+2021/03/11 23:06:04 Bytes: 152, source: 192.168.1.133:58192, error: <nil>
+2021/03/11 23:06:04 Checking IP:Port 192.168.1.133:58192
+2021/03/11 23:06:04 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:04 Device was ourself
+2021/03/11 23:06:04 Discovery looping
+2021/03/11 23:06:04 Bytes: 102, source: 192.168.1.138:51618, error: <nil>
+2021/03/11 23:06:04 Checking IP:Port 192.168.1.138:51618
+2021/03/11 23:06:04 Device from discovery JC11
+2021/03/11 23:06:04 Device was entering
+2021/03/11 23:06:04 192.168.1.138 "prime4" "JC11" "1.6.0"
+2021/03/11 23:06:04 Discovery looping
+2021/03/11 23:06:04 Started
+2021/03/11 23:06:05 Discovery looping
+2021/03/11 23:06:05 Bytes: 152, source: [::1]:63674, error: <nil>
+2021/03/11 23:06:05 Checking IP:Port [::1]:63674
+2021/03/11 23:06:05 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:05 Device was ourself
+2021/03/11 23:06:05 Discovery looping
+2021/03/11 23:06:05 Bytes: 152, source: 192.168.1.133:64327, error: <nil>
+2021/03/11 23:06:05 Checking IP:Port 192.168.1.133:64327
+2021/03/11 23:06:05 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:05 Device was ourself
+2021/03/11 23:06:05 Discovery looping
+2021/03/11 23:06:05 Bytes: 102, source: 192.168.1.138:55802, error: <nil>
+2021/03/11 23:06:05 Checking IP:Port 192.168.1.138:55802
+2021/03/11 23:06:05 Device from discovery JC11
+2021/03/11 23:06:05 Device was entering
+2021/03/11 23:06:05 192.168.1.138 "prime4" "JC11" "1.6.0"
+2021/03/11 23:06:05 Discovery looping
+2021/03/11 23:06:05 Started
+2021/03/11 23:06:06 Discovery looping
+2021/03/11 23:06:06 Bytes: 152, source: [::1]:51033, error: <nil>
+2021/03/11 23:06:06 Checking IP:Port [::1]:51033
+2021/03/11 23:06:06 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:06 Device was ourself
+2021/03/11 23:06:06 Discovery looping
+2021/03/11 23:06:06 Bytes: 152, source: 192.168.1.133:62032, error: <nil>
+2021/03/11 23:06:06 Checking IP:Port 192.168.1.133:62032
+2021/03/11 23:06:06 Device from discovery Icedream StagelinQ Receiver
+2021/03/11 23:06:06 Device was ourself
+2021/03/11 23:06:06 Discovery looping
+2021/03/11 23:06:06 Bytes: 102, source: 192.168.1.138:54139, error: <nil>
+2021/03/11 23:06:06 Checking IP:Port 192.168.1.138:54139
+2021/03/11 23:06:06 Device from discovery JC11
+2021/03/11 23:06:06 Device was entering
+2021/03/11 23:06:06 192.168.1.138 "prime4" "JC11" "1.6.0"
+2021/03/11 23:06:06 192.168.1.138 "Found Device"
+2021/03/11 23:06:06 192.168.1.138 "Found StageLinQ Device on Network"
+2021/03/11 23:06:06 	attempting to connect to this device…
+2021/03/11 23:06:06 	requesting device data services…
+2021/03/11 23:06:07 	offers StateMap at port 44263
+2021/03/11 23:06:07 Decks 1-4 line faders: 1:0.000000 2:0.000000 3:0.000000 4:0.000000
