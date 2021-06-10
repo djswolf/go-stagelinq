@@ -141,7 +141,7 @@ func main() {
 	writeFile1("")
 	writeFile2("")
 	writeFile3("")
-	writeFile4("")
+	writeFile4("\n")
 	listener, err := stagelinq.ListenWithConfiguration(&stagelinq.ListenerConfiguration{
 		DiscoveryTimeout: timeout,
 		SoftwareName:     appName,
